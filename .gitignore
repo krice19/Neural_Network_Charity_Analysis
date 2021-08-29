@@ -1,3 +1,9 @@
+# adding git ignore files
+
+charity_data.csv
+
+checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
